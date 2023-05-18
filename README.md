@@ -1,4 +1,4 @@
-# Select dos estados e munícipios do Brasil utilizando ReactJS
+# Select dos estados e munícipios do Brasil utilizando a API do IBGE em ReactJS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
